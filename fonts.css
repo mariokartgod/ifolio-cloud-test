@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Avenir-light;
+    src: url('https://cdn.jsdelivr.net/gh/mariokartgod/ifolio-cloud-test@main/fonts/Avenir-Light.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/mariokartgod/ifolio-cloud-test@main/fonts/Avenir-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/mariokartgod/ifolio-cloud-test@main/fonts/Avenir-Light.ttf') format('truetype')
+    font-weight: 100;
+    font-style: normal;
+} 
+@font-face {
+    font-family: Avenir-heavy;
+    src: url('https://cdn.jsdelivr.net/gh/mariokartgod/ifolio-cloud-test@main/fonts/Avenir-Heavy.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/mariokartgod/ifolio-cloud-test@main/fonts/Avenir-Heavy.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/mariokartgod/ifolio-cloud-test@main/fonts/Avenir-Heavy.ttf') format('truetype')
+    font-weight: 700;
+    font-style: normal;
+} 
